@@ -1,6 +1,6 @@
 <?php
 	
-namespace graph_as_menu;
+namespace graphmenu;
 
 class Graph
 {
