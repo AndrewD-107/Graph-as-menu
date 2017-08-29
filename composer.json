@@ -1,5 +1,5 @@
 {
-	"name": "graph_as_menu/graph",
+	"name": "graph_as_menu",
 	"description": "Graph algorithms for building site menu",
 	"keywords": ["site menu", "graph algorithms"],
 	"license": "BSD-2-Clause",
