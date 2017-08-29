@@ -1,5 +1,5 @@
 {
-	"name": "graph_as_menu/graph_as_menu",
+	"name": "graph_as_menu/graph",
 	"description": "Graph algorithms for building site menu",
 	"keywords": ["site menu", "graph algorithms"],
 	"license": "BSD-2-Clause",
@@ -11,7 +11,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"\\graphmenu\\": ""
+			"graph_as_menu\\graph\\": ""
 		}
 	}
 }
