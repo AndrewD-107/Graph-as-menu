@@ -1,7 +1,6 @@
 {
 	"name": "graph_as_menu/graph_as_menu",
 	"description": "Graph algorithms for building site menu",
-	"type": "lib",
 	"keywords": ["site menu", "graph algorithms"],
 	"license": "BSD-2-Clause",
 	"authors": [
@@ -10,12 +9,9 @@
 			"email": "demial7@icloud.com"
 		}
 	],
-	"require": {
-		
-	},
 	"autoload": {
-		"prs-4": {
-			"graph_as_menu\\": ""
+		"psr-4": {
+			"\\graphmenu\\": ""
 		}
 	}
 }
